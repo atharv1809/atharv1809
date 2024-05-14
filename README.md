@@ -7,7 +7,7 @@
 
 
 # 💫 About Me:
--🌱 I’m currently making **Fullstack Webpage**<br>- 👯 I’m open to collaborate on **Open Source Projects**<br>- 🤔 I’m looking for help with **Competitive Programming**<br>- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT, REDUX, NODEJS, GOLANG, C/C++, JAVA, PYTHON, MONGODB, MYSQL, ORACLE**
+-🌱 I’m currently making **Fullstack Webpage**<br>- 👯 I’m open to collaborate on **Open Source Projects**<br>- 🤔 I’m open for working as a **FullStack Developer**<br>- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT, REDUX, NODEJS, GOLANG, C/C++, JAVA, PYTHON, MONGODB, MYSQL, ORACLE**
 
 
 ## 🌐 Socials:
