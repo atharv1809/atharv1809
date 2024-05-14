@@ -1,4 +1,4 @@
-# Hello 👋, I'm Atharv Bhadange a Full Stack Developer and a Competitive Programmer
+# Hello👋, I'm Atharv Bhadange a Full Stack Developer and a Competitive Programmer
 
   <img align="right" alt="GIF" src="coding.gif" width="1000" height="380" />
 <p align="center">
